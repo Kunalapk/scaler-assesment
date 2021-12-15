@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "63983322127",
+    "project_id": "scaler-assesment",
+    "storage_bucket": "scaler-assesment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63983322127:android:b1b03d33ebe328c8298f7a",
+        "android_client_info": {
+          "package_name": "com.kunalpasricha.scaler"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "63983322127-m4da5vt7kcveagpppcf1dtokf9rb0q7e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVwXm6j8dt-UL1SR91vYRUSDs01riSt0I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "63983322127-m4da5vt7kcveagpppcf1dtokf9rb0q7e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
