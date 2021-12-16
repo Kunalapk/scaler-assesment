@@ -2,6 +2,7 @@
 <resources>
     <color name="theme_color">#1a84ff</color>
     <color name="theme_color_primary">#006be6</color>
+    <color name="theme_color_secondary">#0041c7</color>
     <color name="white">#FFFFFF</color>
     <color name="gray_a6">#a6a6a6</color>
     <color name="gray_d2">#d2d2d2</color>

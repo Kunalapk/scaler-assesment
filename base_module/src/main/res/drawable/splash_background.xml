@@ -3,7 +3,7 @@
 
     <item
         android:gravity="fill_vertical|fill_horizontal"
-        android:drawable="@color/theme_background_color" />
+        android:drawable="@color/theme_color_secondary" />
 
     <item>
         <bitmap

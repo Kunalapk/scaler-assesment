@@ -15,6 +15,7 @@ import com.module_social.R
 import com.module_social.databinding.ActivityVideosBinding
 import com.module_social.listeners.OnPostItemClickListener
 import com.base_module.model.VideoModel
+import com.base_module.utils.AppUtility
 import com.module_social.comparators.VideoTitleComparator
 import com.module_social.comparators.VideoViewsComparator
 import com.module_social.screens.fragments.VideoPlayerFragment
@@ -91,6 +92,9 @@ class VideosActivity : BaseActivity() {
         when(item.itemId){
             R.id.menu_sort -> {
                 toggleSort()
+            }
+            R.id.menu_logout -> {
+                AppUtility.callAccountActivityOnLogOut()
             }
         }
         return super.onOptionsItemSelected(item)

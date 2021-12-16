@@ -9,4 +9,11 @@
         app:showAsAction="always"
         android:title="Sort" />
 
+    <item
+        android:id="@+id/menu_logout"
+        android:icon="@drawable/ic_logout"
+        android:orderInCategory="100"
+        app:showAsAction="always"
+        android:title="Sort" />
+
 </menu>
